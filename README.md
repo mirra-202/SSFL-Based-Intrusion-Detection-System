@@ -33,8 +33,7 @@ A novel Intrusion Detection System (IDS) built using Semi-Supervised Federated L
 
 ## Dataset
 
-- **N-BaIoT** dataset from the [TON IoT Project](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
-- Contains traffic from multiple IoT devices such as baby monitors, webcams, and thermostats under normal and attack conditions.
+- NBaIoT Dataset - contains traffic from multiple IoT devices such as baby monitors, webcams, and thermostats under normal and attack conditions.
 - Automatically split into:
   - **Private datasets:** Local to each client
   - **Open dataset:** Used for semi-supervised learning
