@@ -33,7 +33,7 @@ A novel Intrusion Detection System (IDS) built using Semi-Supervised Federated L
 
 ## Dataset
 
-- NBaIoT Dataset - contains traffic from multiple IoT devices such as baby monitors, webcams, and thermostats under normal and attack conditions.
+- [NBaIoT Dataset](https://www.kaggle.com/datasets/tdddevelopment/nbaiot) - contains traffic from multiple IoT devices such as baby monitors, webcams, and thermostats under normal and attack conditions.
 - Automatically split into:
   - **Private datasets:** Local to each client
   - **Open dataset:** Used for semi-supervised learning
